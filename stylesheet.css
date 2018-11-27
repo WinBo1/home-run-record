@@ -31,8 +31,8 @@
        text-align: center;
     }
 
-    .border {
+    .border { 
+    border-hight:medium;
     border-style:dotted; 
-    
     border-width:medium; 
     }
