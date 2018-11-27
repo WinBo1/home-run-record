@@ -30,3 +30,8 @@
     .centerCell {
        text-align: center;
     }
+
+   border {
+    border-style:dotted; 
+    
+    border-width:medium; 
