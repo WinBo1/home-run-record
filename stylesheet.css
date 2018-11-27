@@ -32,6 +32,7 @@
     }
 
     .border { 
+    border-color:black;
     border-hight:medium;
     border-style:dotted; 
     border-width:medium; 
